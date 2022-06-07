@@ -16,6 +16,10 @@ html {
   background-color: #eeeeee; 
 }
 
+*.class:hover{
+	color: blue;
+}
+
 #year{
 	color:#8C1540;
 }
