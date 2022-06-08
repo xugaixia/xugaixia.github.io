@@ -16,7 +16,7 @@ html {
   background-color: #eeeeee; 
 }
 
-*.class:hover{
+.paper:hover{
 	color: blue;
 }
 
