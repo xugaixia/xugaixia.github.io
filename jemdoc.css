@@ -25,7 +25,7 @@ html {
 }
 
 body { 
-  font-family: Georgia, Helvetica, Arial, Verdana, san-serif, Times;
+	font-family: Georgia, Helvetica, Arial, Verdana, san-serif, Times;
   /*font-size: 16px;
   line-height: 24px;*/
   color:#000000;
@@ -39,7 +39,8 @@ body {
   padding-right: 50px;
   padding-top: 10px;
   padding-bottom: 30px;
-  max-width: 960px;
+  max-width: 1000px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
 }
 
 #layout-menu {
@@ -220,6 +221,17 @@ div#footer {
 	padding-top: 0.1em;
 	margin-top: 4.0em;
 	color: #c0c0c0;
+}
+
+#current,#alumni tr td{
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	line-height: 150%;
+	text-align: center;
+}
+
+.member{
+	width: 185px;
+	max-height: 250px;
 }
 
 div#footer a {
