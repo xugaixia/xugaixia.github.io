@@ -40,7 +40,7 @@ body {
   padding-top: 10px;
   padding-bottom: 30px;
   max-width: 1000px;
-	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-family: Times New Roman;
 }
 
 #layout-menu {
@@ -105,7 +105,7 @@ tt {
 
 pre, tt {
 	font-size: 90%;
-	font-family: monaco, monospace;
+	font-family: Times New Roman;
 }
 
 a, a > tt {
@@ -224,7 +224,7 @@ div#footer {
 }
 
 #current,#alumni tr td{
-	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-family: Times New Roman;
 	line-height: 150%;
 	text-align: center;
 }
