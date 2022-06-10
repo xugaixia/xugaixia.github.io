@@ -25,7 +25,7 @@ html {
 }
 
 body { 
-	font-family: Georgia, Helvetica, Arial, Verdana, san-serif, Times;
+font-family: Times New Roman;
   /*font-size: 16px;
   line-height: 24px;*/
   color:#000000;
@@ -40,7 +40,6 @@ body {
   padding-top: 10px;
   padding-bottom: 30px;
   max-width: 1000px;
-	font-family: Times New Roman;
 }
 
 #layout-menu {
@@ -171,6 +170,10 @@ strong {
 	font-weight: bold;
 }
 
+#news li a{
+	font-family: Times new Roman;
+}
+
 
 h1, h2, h3 {
 	color: #527bbd;
@@ -180,7 +183,7 @@ h1, h2, h3 {
 	line-height: 1.0;
 	padding-top: 0.5em;
 	border-bottom: 1px solid #aaaaaa;
-	
+	font-family: Times New Roman;
 }
 
 h1 {
