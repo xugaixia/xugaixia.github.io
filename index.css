@@ -237,6 +237,16 @@ div#footer {
 	max-height: 250px;
 }
 
+.honor{
+	width: 185px;
+	max-height: 250px;
+}
+
+.honor:hover{
+	transform: scale(2);
+    transition: all 0.2s linear;
+}
+
 div#footer a {
 	color: #80a0b0;
 }
