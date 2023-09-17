@@ -243,7 +243,7 @@ div#footer {
 }
 
 .honor:hover{
-	transform: scale(2);
+	transform: scale(3);
     transition: all 0.2s linear;
 }
 
