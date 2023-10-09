@@ -235,6 +235,7 @@ div#footer {
 .member{
 	width: 185px;
 	max-height: 250px;
+	border-radius:10px; 
 }
 
 .honor{
